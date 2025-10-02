@@ -15,7 +15,7 @@ A Counter-Strike 2 plugin that implements a Blackjack game, integrated with the 
 - [Store Plugin & Api](https://github.com/schwarper/cs2-store/)
 
 ## Configuration
-The plugin uses a JSON configuration file (`config.json`) with the following options:
+The plugin uses a JSON configuration file (`cs2-blackjack.json`) with the following options:
 - **Prefix**: The chat prefix for plugin messages (default: "⌈ Blackjack ⌋").
 - **MinimumBet**: The maximum allowed bet (default: 999999 credits).
 - **MaximumBet**: The inimum allowed bet (default: 100 credits).
