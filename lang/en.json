@@ -1,0 +1,31 @@
+{
+  "Not Enough Args": "{red}Please specify a bet. {white}!blackjack <bet>",
+  "Incorrect Integer": "{red}Enter a valid number.",
+  "Not Enough Credits": "{red}You don't have enough credits. {white}Available: {0}",
+  "Maximum Bet": "{red}You can bet up to {0} credits.",
+  "Minimum Bet": "{red}You must bet at least {0} credits.",
+  "Already Playing A Game": "{red}You are already playing a game!",
+  "Starting A Game": "{lightyellow}Starting game with bet: {lightred}{0} credits",
+  "No Active Game": "{red}No active game found",
+
+  "Hit": "{lightyellow}You drew 1 card",
+  "Stand": "{lightyellow}You chose to stand",
+
+  "Win": "{lightyellow}You won! {green}+{0} credits",
+  "Draw": "{lightblue}It's a tie. {lightpurple}{0} credits {lime}refunded.",
+  "Lose": "{red}You lost!",
+
+  "Prize": "Prize",
+  "CashBack": "Your bet was refunded",
+  "DealerWon": "Dealer won",
+  "WinTitle": "You Won",
+  "DrawTitle": "Tie",
+  "LoseTitle": "You Lost",
+  "Dealer": "Dealer",
+  "You": "You",
+  "HitTitle": "Hit",
+  "StandTitle": "Stand",
+  "Bet": "Bet",
+  "Bust": "Bust",
+  "More Than 21": "You went over 21, you lost!"
+}

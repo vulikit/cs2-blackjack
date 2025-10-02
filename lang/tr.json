@@ -1,0 +1,31 @@
+{
+  "Not Enough Args": "{red}Bir bahis belirtin. {white}!blackjack <bahis>",
+  "Incorrect Integer": "{red}Geçerli bir sayý girin.",
+  "Not Enough Credits": "{red}Yeterli krediniz yok. {white}Mevcut: {0}",
+  "Maximum Bet": "{red}En fazla {0} kredi oynayabilirsiniz.",
+  "Minimum Bet": "{red}En az {0} kredi oynayabilirsiniz.",
+  "Already Playing A Game": "{red}Zaten bir oyun oynuyorsunuz?",
+  "Starting A Game": "{lightyellow}Oyun baþlýyor bahis: {lightred}{0} kredi",
+  "No Active Game": "{red}Aktif oyun bulunamadý",
+
+  "Hit": "{lightyellow}1 adet kart çektiniz",
+  "Stand": "{lightyellow}Kalmayý tercih ettiniz",
+
+  "Win": "{lightyellow}Kazandýn! {green}+{0} kredi",
+  "Draw": "{lightblue}Berabere. {lightpurple}{0} kredi {lime}iade edildi.",
+  "Lose": "{red}Kaybettin!",
+
+  "Prize": "Ödül",
+  "CashBack": "Bahsin iade edildi",
+  "DealerWon": "Krupiye kazandý",
+  "WinTitle": "Kazandýn",
+  "DrawTitle": "Berabere",
+  "LoseTitle": "Kaybettin",
+  "Dealer": "Krupiye",
+  "You": "Sen",
+  "HitTitle": "Kart Çek",
+  "StandTitle": "Kal",
+  "Bet": "Bahis",
+  "Bust": "Patladý"
+  "More Than 21": "21'i aþtýn, kaybettin!"
+}

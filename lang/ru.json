@@ -1,0 +1,31 @@
+﻿{
+  "Not Enough Args": "{red}Укажите ставку. {white}!blackjack <ставка>",
+  "Incorrect Integer": "{red}Введите корректное число.",
+  "Not Enough Credits": "{red}У вас недостаточно кредитов. {white}Доступно: {0}",
+  "Maximum Bet": "{red}Вы можете поставить не более {0} кредитов.",
+  "Minimum Bet": "{red}Вы должны поставить минимум {0} кредитов.",
+  "Already Playing A Game": "{red}Вы уже играете в игру!",
+  "Starting A Game": "{lightyellow}Игра начинается со ставкой: {lightred}{0} кредитов",
+  "No Active Game": "{red}Активная игра не найдена",
+
+  "Hit": "{lightyellow}Вы взяли 1 карту",
+  "Stand": "{lightyellow}Вы решили остановиться",
+
+  "Win": "{lightyellow}Вы выиграли! {green}+{0} кредитов",
+  "Draw": "{lightblue}Ничья. {lightpurple}{0} кредитов {lime}возвращено.",
+  "Lose": "{red}Вы проиграли!",
+
+  "Prize": "Приз",
+  "CashBack": "Ваша ставка возвращена",
+  "DealerWon": "Дилер выиграл",
+  "WinTitle": "Вы выиграли",
+  "DrawTitle": "Ничья",
+  "LoseTitle": "Вы проиграли",
+  "Dealer": "Дилер",
+  "You": "Вы",
+  "HitTitle": "Взять карту",
+  "StandTitle": "Остановиться",
+  "Bet": "Ставка",
+  "Bust": "Перебор",
+  "More Than 21": "Вы набрали больше 21, вы проиграли!"
+}

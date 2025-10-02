@@ -1,0 +1,31 @@
+{
+  "Not Enough Args": "{red}Bitte geben Sie einen Einsatz an. {white}!blackjack <Einsatz>",
+  "Incorrect Integer": "{red}Geben Sie eine gültige Zahl ein.",
+  "Not Enough Credits": "{red}Sie haben nicht genug Credits. {white}Verfügbar: {0}",
+  "Maximum Bet": "{red}Sie können maximal {0} Credits setzen.",
+  "Minimum Bet": "{red}Sie müssen mindestens {0} Credits setzen.",
+  "Already Playing A Game": "{red}Sie spielen bereits ein Spiel!",
+  "Starting A Game": "{lightyellow}Spiel wird gestartet mit Einsatz: {lightred}{0} Credits",
+  "No Active Game": "{red}Kein aktives Spiel gefunden",
+
+  "Hit": "{lightyellow}Sie haben 1 Karte gezogen",
+  "Stand": "{lightyellow}Sie haben sich entschieden zu bleiben",
+
+  "Win": "{lightyellow}Sie haben gewonnen! {green}+{0} Credits",
+  "Draw": "{lightblue}Unentschieden. {lightpurple}{0} Credits {lime}zurückerstattet.",
+  "Lose": "{red}Sie haben verloren!",
+
+  "Prize": "Gewinn",
+  "CashBack": "Ihr Einsatz wurde zurückerstattet",
+  "DealerWon": "Der Dealer hat gewonnen",
+  "WinTitle": "Sie haben gewonnen",
+  "DrawTitle": "Unentschieden",
+  "LoseTitle": "Sie haben verloren",
+  "Dealer": "Dealer",
+  "You": "Sie",
+  "HitTitle": "Karte ziehen",
+  "StandTitle": "Bleiben",
+  "Bet": "Einsatz",
+  "Bust": "Überzogen",
+  "More Than 21": "Sie haben 21 überschritten, Sie haben verloren!"
+}
